@@ -1,0 +1,10 @@
+Finish Webhook Sender:
+Add Hotswap Between Multiple Webhooks
+Fix Color/Add Multicolored Text (if i can figure it out lel)
+Ask Godfather If he has any ideas
+----------------------------------------------------------------
+Start Work On Discord Bot:
+Commands:
+Ban/Kick
+Hentai ;)
+----------------------------------------------------------------
